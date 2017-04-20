@@ -7,16 +7,15 @@ LIS 2360:  Web Application Development
 (Month Day, Year)
 
 ### Student Name:  
-(First and Last Name)
+Meghan Allbright
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was to build a weather forecast program. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://meghanallbright.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. You need a API Key to access certain databases.
+2. Only the data you need is pulled from the API.
+3. Placeholders need to be set up for the data you pull.
